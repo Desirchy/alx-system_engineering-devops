@@ -1,1 +1,1 @@
-My first script!
+TASK 0. Where am I?
